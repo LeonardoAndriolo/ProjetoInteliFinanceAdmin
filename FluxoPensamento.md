@@ -129,4 +129,23 @@ Após ter uma visão inicial sobre gestão de _feedbacks_ e um pouco sobre desen
 
 Os artigos/TCCs falam sobre gestão de feedback, desenvolvimento pessoal e sistema de recompensas. Certamente não li todos para o escopo do projeto proposto, mas estudei atentamente o texto de três deles para criar a proposta solicitada.
 
+## Hora de colocar a mão na massa
+<div align="center">
+<img src="./image-6.png" width="50%">
+</div>
+Com a pesquisa feita, chegou a hora de forjar a proposta da gestão de feedbacks e desenvolvimento pessoal da liga.
 
+Primeiramente, criei um arquivo chamado `Proposta` que serve como um `README` para meu repo e irá organizar a proposta em tópicos. Não sei ao certo como dividir, então peguei um pouco de cada documento e fiz um novo (seria interessante receber feedback dessa parte).
+
+Pronto, para o texto. Havia prometido não utilizar IA para escrever, mas ignorar a ferramenta também seria ineficiente. Meu fluxo de escrita com IA segue um padrão de gerar código e revisar. Regerar código e rerevisar. E continuo isso até gerar algo bem próximo de como escreveria normalmente. A vantagem é que gasto perceptivelmente menos tempo e desenvolvo mais rápido.
+
+Bem, escrevi o Mercado, Problema, Solução e Responsáveis diretamente sem problemas. Estou começando a verificar o que seria um possível Sistema de Recompensa e Reconhecimento quando esbarrei nesse [post](https://www.linkedin.com/pulse/importância-do-reconhecimento-e-recompensa-na-gestão-de-performance/?originalSubdomain=pt) no Linkedin. Ele esclareceu bastante o que seria tal sistema e ajudou-me a compor sua seção da proposta.
+
+Por fim, concluí as seções restantes e adicionei um parágrafo explicando a linha de produção com algumas etapas. Dá para abrir bem mais e escrever detalhadamente, mas não vi necessidade nessa proposta de ir tão a fundo.
+
+## Chegando ao fim...
+<div align="center">
+<img src="./image-7.png" width="100%">
+</div>
+
+Foi muito divertido escrever este documento. Agradeço pela oportunidade de terminá-lo. Let's bora mergulhar nas tabelas do Júpiter agora. :)
