@@ -145,7 +145,7 @@ Por fim, concluí as seções restantes e adicionei um parágrafo explicando a l
 
 ## Chegando ao fim...
 <div align="center">
-<img src="./assets/image-7.png" width="100%">
+<img src="./assets/image-7.png" width="80%">
 </div>
 
 Foi muito divertido escrever este documento. Agradeço pela oportunidade de terminá-lo. Let's bora mergulhar nas tabelas do Júpiter agora. :)
