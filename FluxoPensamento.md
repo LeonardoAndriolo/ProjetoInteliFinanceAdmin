@@ -1,6 +1,6 @@
 # Pesquisa
 <div align="center">
-<img src="./image-1.png" width="70%">
+<img src="./assets/image-1.png" width="70%">
 </div>
 
 Bem, por onde começar?
@@ -115,7 +115,7 @@ Por fim, o post sugere ferramentas para avaliação (ou para concentrar todas as
 
 ## Partindo para mais teoria
 <div align="center">
-<img src="./image-2.png" width="70%">
+<img src="./assets/image-2.png" width="70%">
 </div>
 
 Após ter uma visão inicial sobre gestão de _feedbacks_ e um pouco sobre desenvolvimento da equipe, pesquisei no [Google Acadêmico](https://scholar.google.com.br/?hl=pt) sobre pesquisas recentes na área.
@@ -131,7 +131,7 @@ Os artigos/TCCs falam sobre gestão de feedback, desenvolvimento pessoal e siste
 
 ## Hora de colocar a mão na massa
 <div align="center">
-<img src="./image-6.png" width="50%">
+<img src="./assets/image-6.png" width="50%">
 </div>
 Com a pesquisa feita, chegou a hora de forjar a proposta da gestão de feedbacks e desenvolvimento pessoal da liga.
 
@@ -145,7 +145,7 @@ Por fim, concluí as seções restantes e adicionei um parágrafo explicando a l
 
 ## Chegando ao fim...
 <div align="center">
-<img src="./image-7.png" width="100%">
+<img src="./assets/image-7.png" width="100%">
 </div>
 
 Foi muito divertido escrever este documento. Agradeço pela oportunidade de terminá-lo. Let's bora mergulhar nas tabelas do Júpiter agora. :)
